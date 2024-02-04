@@ -1,5 +1,10 @@
-# STEM_engagement
+# STEM Engagement: Arduino motor control
 
-Download the serial_motor_control_w_blanks.ino file to start filling in your Arduino code
+### [Download Arduino IDE here](https://www.arduino.cc/en/software)
 
-View the Arduino-motor_controller_schematic.png file to see what wire connections you should make
+### Steps:
+1. Hook up connections according to the schematic
+2. Write your code
+3. Upload code to Arduino
+
+
